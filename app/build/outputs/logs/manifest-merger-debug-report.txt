@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml:18:1-39:12
+INJECTED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml:18:1-39:12
+INJECTED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml:18:1-39:12
+INJECTED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml:18:1-39:12
+MERGED from [com.android.support:design:23.4.0] C:\Users\SPIRAVEEN\.gradle\caches\transforms-2\files-2.1\f5f60eddb2136f50fffb56e4e7a967fc\design-23.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\SPIRAVEEN\.gradle\caches\transforms-2\files-2.1\3225061f0afd8de271795df9655c6791\appcompat-v7-23.4.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\SPIRAVEEN\.gradle\caches\transforms-2\files-2.1\982725dbf99496319c69e7cf53a3aa1f\animated-vector-drawable-23.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\SPIRAVEEN\.gradle\caches\transforms-2\files-2.1\b0835ad51e66e3b67ab5691678827d9f\support-vector-drawable-23.4.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\SPIRAVEEN\.gradle\caches\transforms-2\files-2.1\4cba4c4df00acc23abfbfb6a4300ec1c\recyclerview-v7-23.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\SPIRAVEEN\.gradle\caches\transforms-2\files-2.1\ec4ab2e6aee1184b1e2a1a7853d57c0e\support-v4-23.4.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml:18:1-39:12
+INJECTED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml:18:1-39:12
+INJECTED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml:18:1-39:12
+	package
+		ADDED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml:19:11-59
+		INJECTED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml:18:1-39:12
+		INJECTED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml:18:1-39:12
+		INJECTED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml:18:11-69
+application
+ADDED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml:21:5-37:19
+MERGED from [com.android.support:design:23.4.0] C:\Users\SPIRAVEEN\.gradle\caches\transforms-2\files-2.1\f5f60eddb2136f50fffb56e4e7a967fc\design-23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] C:\Users\SPIRAVEEN\.gradle\caches\transforms-2\files-2.1\f5f60eddb2136f50fffb56e4e7a967fc\design-23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\SPIRAVEEN\.gradle\caches\transforms-2\files-2.1\3225061f0afd8de271795df9655c6791\appcompat-v7-23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\SPIRAVEEN\.gradle\caches\transforms-2\files-2.1\3225061f0afd8de271795df9655c6791\appcompat-v7-23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\SPIRAVEEN\.gradle\caches\transforms-2\files-2.1\982725dbf99496319c69e7cf53a3aa1f\animated-vector-drawable-23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\SPIRAVEEN\.gradle\caches\transforms-2\files-2.1\982725dbf99496319c69e7cf53a3aa1f\animated-vector-drawable-23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\SPIRAVEEN\.gradle\caches\transforms-2\files-2.1\b0835ad51e66e3b67ab5691678827d9f\support-vector-drawable-23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\SPIRAVEEN\.gradle\caches\transforms-2\files-2.1\b0835ad51e66e3b67ab5691678827d9f\support-vector-drawable-23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\SPIRAVEEN\.gradle\caches\transforms-2\files-2.1\ec4ab2e6aee1184b1e2a1a7853d57c0e\support-v4-23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\SPIRAVEEN\.gradle\caches\transforms-2\files-2.1\ec4ab2e6aee1184b1e2a1a7853d57c0e\support-v4-23.4.0\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml:24:9-41
+	android:icon
+		ADDED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml:26:9-40
+activity#lk.ac.mrt.cse.dbs.simpleexpensemanager.ui.MainActivity
+ADDED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml:27:9-36:20
+	android:label
+		ADDED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml:29:13-45
+	android:theme
+		ADDED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml:28:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml:32:17-68
+	android:name
+		ADDED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml:34:27-74
+uses-sdk
+INJECTED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:23.4.0] C:\Users\SPIRAVEEN\.gradle\caches\transforms-2\files-2.1\f5f60eddb2136f50fffb56e4e7a967fc\design-23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] C:\Users\SPIRAVEEN\.gradle\caches\transforms-2\files-2.1\f5f60eddb2136f50fffb56e4e7a967fc\design-23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\SPIRAVEEN\.gradle\caches\transforms-2\files-2.1\3225061f0afd8de271795df9655c6791\appcompat-v7-23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\SPIRAVEEN\.gradle\caches\transforms-2\files-2.1\3225061f0afd8de271795df9655c6791\appcompat-v7-23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\SPIRAVEEN\.gradle\caches\transforms-2\files-2.1\982725dbf99496319c69e7cf53a3aa1f\animated-vector-drawable-23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\SPIRAVEEN\.gradle\caches\transforms-2\files-2.1\982725dbf99496319c69e7cf53a3aa1f\animated-vector-drawable-23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\SPIRAVEEN\.gradle\caches\transforms-2\files-2.1\b0835ad51e66e3b67ab5691678827d9f\support-vector-drawable-23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\SPIRAVEEN\.gradle\caches\transforms-2\files-2.1\b0835ad51e66e3b67ab5691678827d9f\support-vector-drawable-23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\SPIRAVEEN\.gradle\caches\transforms-2\files-2.1\4cba4c4df00acc23abfbfb6a4300ec1c\recyclerview-v7-23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\SPIRAVEEN\.gradle\caches\transforms-2\files-2.1\4cba4c4df00acc23abfbfb6a4300ec1c\recyclerview-v7-23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\SPIRAVEEN\.gradle\caches\transforms-2\files-2.1\ec4ab2e6aee1184b1e2a1a7853d57c0e\support-v4-23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\SPIRAVEEN\.gradle\caches\transforms-2\files-2.1\ec4ab2e6aee1184b1e2a1a7853d57c0e\support-v4-23.4.0\AndroidManifest.xml:20:5-43
+INJECTED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\SPIRAVEEN\.gradle\caches\transforms-2\files-2.1\3225061f0afd8de271795df9655c6791\appcompat-v7-23.4.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\SPIRAVEEN\Desktop\SimpleExpenseManager-180476\SimpleExpenseManager-master\app\src\main\AndroidManifest.xml
